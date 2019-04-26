@@ -38,10 +38,7 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-// Listening on Port
 
-app.listen(3001,()=>console.log('Listening on Port 3001')
-)
 
 app.use(express.json)
 module.exports = app;
