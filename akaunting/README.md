@@ -59,9 +59,9 @@ Browser URL :
 ```sh
 localhost:8080
 ```
-user : root
-password : mysql
-database : akdb
+* [user : root](#)
+* [password : mysql](#)
+* [database : akdb](#)
 
 Use API token 
 ```sh
