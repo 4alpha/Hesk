@@ -34,7 +34,7 @@ Akaunting uses [Laravel](http://laravel.com), the best existing PHP framework, a
 sudo apt-get install php-xml
 ```
 ```sh
-sudo apt-get install php7.2-curl && sudo apt-get install php7.2-mysql && sudo apt-get install php7.2-mbstring && sudo apt-get install php7.2-sqlite && sudo apt-get install php7.2-mcrypt && sudo apt-get install php7.2-zip
+sudo apt-get install php7.2-curl && sudo apt-get install php7.2-mysql && sudo apt-get install php7.2-mbstring && sudo apt-get install php7.2-sqlite && sudo apt-get install php7.2-zip
 ```
 ```sh
 sudo apt install composer
